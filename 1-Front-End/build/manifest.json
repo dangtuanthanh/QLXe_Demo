@@ -1,0 +1,27 @@
+{
+  "short_name": "QLXe",
+  "name": "QLXE",
+  "icons": [
+    {
+      "src": "5.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "5.ico",
+      "type": "image/x-icon",
+      "sizes": "192x192"
+    },
+    {
+      "src": "5.ico",
+      "type": "image/x-icon",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "chrome_navigation_bar": false,
+  "fullscreen": true,
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
